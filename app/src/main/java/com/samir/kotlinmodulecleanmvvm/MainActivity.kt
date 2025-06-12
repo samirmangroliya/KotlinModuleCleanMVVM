@@ -1,10 +1,11 @@
-package com.example.kotlinmodulecleanmvvm
+package com.samir.kotlinmodulecleanmvvm
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.samir.kotlinmodulecleanmvvm.R
 
 class MainActivity : AppCompatActivity() {
 

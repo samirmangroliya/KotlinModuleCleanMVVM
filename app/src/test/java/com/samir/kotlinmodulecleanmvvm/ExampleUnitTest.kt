@@ -1,4 +1,4 @@
-package com.example.kotlinmodulecleanmvvm
+package com.samir.kotlinmodulecleanmvvm
 
 import org.junit.Test
 

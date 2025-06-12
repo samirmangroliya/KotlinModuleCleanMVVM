@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kotlinmodulecleanmvvm"
+    namespace = "com.samir.kotlinmodulecleanmvvm"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.kotlinmodulecleanmvvm"
+        applicationId = "com.samir.kotlinmodulecleanmvvm"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
